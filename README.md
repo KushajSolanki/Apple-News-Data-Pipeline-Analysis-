@@ -2,6 +2,8 @@
 
 This project demonstrates an **end-to-end data pipeline** for ingesting, storing, and analyzing Apple News articles using modern data engineering tools.  
 
+![Apple News Pipeline](pipeline.png)
+
 ## 🚀 Project Overview  
 - **News API**: Provides real-time Apple News data.  
 - **Apache Airflow**: Orchestrates the pipeline by scheduling and triggering data fetch jobs.  
